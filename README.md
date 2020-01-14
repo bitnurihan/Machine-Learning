@@ -1,4 +1,4 @@
-# Machine-Learning
+# Machine-Learning for TAR
 1. Purpose
 - Test to change modeling method from scikit learn(curve_fit) to machine learning.
 
