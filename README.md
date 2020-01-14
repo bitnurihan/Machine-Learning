@@ -12,3 +12,5 @@
 - Outlier detection of raw data uses IQR.
 - Because it is nonlinear regression, activation is selected to 'relu'.
 - Only one hidden layer is set.
+
+** Raw data can't be uploaded because it's confidential.
